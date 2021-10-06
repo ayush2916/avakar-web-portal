@@ -1,3 +1,13 @@
+# Project Avakar-web-portal
+# To run the project do the following step
+1. Must have node installed in your PC
+2. Must have yarn package manager
+3. After cloning the project into your local repository 
+4. Do following step by step
+--> yarn install
+--> yarn start 
+5. project in running on the port 3000
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
